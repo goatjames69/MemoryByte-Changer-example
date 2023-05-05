@@ -1,0 +1,21 @@
+C:\Users\J A M E S\source\repos\MemChanger\MemChanger\bin\Debug\MemChanger.exe.config
+C:\Users\J A M E S\source\repos\MemChanger\MemChanger\bin\Debug\MemChanger.exe
+C:\Users\J A M E S\source\repos\MemChanger\MemChanger\bin\Debug\MemChanger.pdb
+C:\Users\J A M E S\source\repos\MemChanger\MemChanger\bin\Debug\memory.dll
+C:\Users\J A M E S\source\repos\MemChanger\MemChanger\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\J A M E S\source\repos\MemChanger\MemChanger\obj\Debug\MemChanger.csproj.AssemblyReference.cache
+C:\Users\J A M E S\source\repos\MemChanger\MemChanger\obj\Debug\MemChanger.Injection.resources
+C:\Users\J A M E S\source\repos\MemChanger\MemChanger\obj\Debug\MemChanger.Properties.Resources.resources
+C:\Users\J A M E S\source\repos\MemChanger\MemChanger\obj\Debug\MemChanger.csproj.GenerateResource.cache
+C:\Users\J A M E S\source\repos\MemChanger\MemChanger\obj\Debug\MemChanger.csproj.CoreCompileInputs.cache
+C:\Users\J A M E S\source\repos\MemChanger\MemChanger\obj\Debug\MemChanger.csproj.CopyComplete
+C:\Users\J A M E S\source\repos\MemChanger\MemChanger\obj\Debug\MemChanger.exe
+C:\Users\J A M E S\source\repos\MemChanger\MemChanger\obj\Debug\MemChanger.pdb
+D:\MemChanger\MemChanger\obj\Debug\MemChanger.exe
+D:\MemChanger\MemChanger\obj\Debug\MemChanger.pdb
+D:\MemChanger\MemChanger\obj\Debug\MemChanger.csproj.AssemblyReference.cache
+D:\MemChanger\MemChanger\obj\Debug\MemChanger.csproj.SuggestedBindingRedirects.cache
+D:\MemChanger\MemChanger\obj\Debug\MemChanger.Injection.resources
+D:\MemChanger\MemChanger\obj\Debug\MemChanger.Properties.Resources.resources
+D:\MemChanger\MemChanger\obj\Debug\MemChanger.csproj.GenerateResource.cache
+D:\MemChanger\MemChanger\obj\Debug\MemChanger.csproj.CoreCompileInputs.cache
